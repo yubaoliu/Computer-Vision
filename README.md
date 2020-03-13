@@ -12,6 +12,7 @@ Implementation of basic algorithms of Computer Vision and Machine Learning
 - Downsample
 - Image match
 - Filtering
+- Stereo constraint
 - ...
 
 # References
